@@ -1,6 +1,0 @@
-print("\n=== 🥴❄açaítaria❄ ===")
-print("1. cadastro")
-print("2. cardápio")
-print("3. pedidos")
-print("4. ajuda")
-print("5. Sair")
